@@ -16,7 +16,7 @@
 def teach_yourself(anything):
     while not create():
         learn()
-        practices()
+        practice()
     return teach_yourself(another)
 
 teach_yourself(coding)
